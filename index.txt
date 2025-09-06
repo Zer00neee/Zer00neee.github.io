@@ -12,13 +12,13 @@ Email
 richard@example.com
 
 Phone
-+1 (213) 352-2795
+099-143-8923
 
 Birthday
-June 23, 1982
+May 11, 2007
 
 Location
-Sacramento, California, USA
+Nonthaburi Bang Yai Bang Mae Nang Pruksa 54 72/73
 
 # navbar
 
